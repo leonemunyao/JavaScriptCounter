@@ -15,9 +15,3 @@ countSubtractBtn.addEventListener("click", () => {
     count--;
     countHeader.innerText = count
  });
-
-countSubtractBtn.addEventListener("click", () => {
-   count--;
-   countHeader.innerText = count
-});
-
