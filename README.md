@@ -1,3 +1,0 @@
-# JavaScriptCounter
-# JavaScriptCounter
-# JavaScriptCounter
